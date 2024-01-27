@@ -6,7 +6,7 @@ This project facilitates the integration of data from Gumroad, a platform for se
 ## Prerequisites
 Before running the scripts, ensure that the following prerequisites are met:
 - Access Tokens:
-   -Obtain access tokens for Gumroad and the ChartMogul API key.
+   - Obtain access tokens for Gumroad and the ChartMogul API key.
 - Python Environment:
    - Make sure you have a Python environment set up with the necessary dependencies.
 
